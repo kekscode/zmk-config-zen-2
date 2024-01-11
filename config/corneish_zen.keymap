@@ -53,7 +53,7 @@
    &lt NAVI TAB  &kp A  &kp S  &kp D  &kp F  &kp G                    &kp H  &kp J  &kp K      &kp L    &kp SEMI  &kp ENTER
    &td0          &kp Z  &kp X  &kp C  &kp V  &kp B                    &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
 
-                               &kp LCTRL  &mt LALT &kp LGUI           &kp TMUX  &lt SPECIAL SPACE  &lt FUNC F1
+                               &kp LCTRL  &kp LALT &kp LGUI           &kp TMUX  &lt SPECIAL SPACE  &lt FUNC F1
                         >;
                 };
                 special_layer {
