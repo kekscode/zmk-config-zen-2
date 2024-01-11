@@ -53,7 +53,7 @@
    &lt NAVI TAB  &kp A  &kp S  &kp D  &kp F  &kp G                    &kp H  &kp J  &kp K      &kp L    &kp SEMI  &kp ENTER
    &td0          &kp Z  &kp X  &kp C  &kp V  &kp B                    &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
 
-                               &kp LCTRL  &mt LGUI SPACE  &kp LALT    &kp TMUX  &lt SPECIAL SPACE  &lt FUNC F1
+                               &kp LCTRL  &mt LALT &kp LGUI           &kp TMUX  &lt SPECIAL SPACE  &lt FUNC F1
                         >;
                 };
                 special_layer {
@@ -62,7 +62,7 @@
    &kp TAB    &none     &kp UNDER  &kp LBRC  &kp LPAR  &kp SQT      &kp DQT    &kp RPAR  &kp RBRC   &kp MINUS  &kp PIPE  &kp ENTER
    &kp LSHFT  &none     &none      &kp LT    &kp LBKT  &kp TILDE    &kp GRAVE  &kp RBKT  &kp GT     &none      &kp BSLH  &kp RSHFT
 
-                                   &kp LCTRL  &kp LGUI  &kp LALT    &none  &none  &none
+                                   &kp LCTRL  &kp LALT &kp LGUI     &none  &none  &none
                         >;
                 };
                 navi_layer {
@@ -80,7 +80,7 @@
    &none   &none   &none   &none   &none   &none     &none   &none   &none   &none    &none    &none
    &none   &none   &none   &none   &none   &none     &none   &none   &none   &none    &none    &none
 
-                           &none  &none  &none       &none  &none  &none
+                           &none   &none   &none     &none   &none   &none
                         >;
                 };
                 bt_layer {
